@@ -2,7 +2,7 @@
 
 A brand-new, old-school game-engine inspired by the likes of [Wolfenstein 3D (1992)](https://en.wikipedia.org/wiki/Wolfenstein_3D) and [Ultima Underworld: The Stygian Abyss (1992)](https://en.wikipedia.org/wiki/Ultima_Underworld:_The_Stygian_Abyss). Uses simple raycasting techniques and a uniform cell grid to render 3D.
 
-See also: my own fork, implementing multiple z-levels and more - ![Fork](https://github.com/con-dog/chunked-z-level-raycaster)
+See also: my own fork, implementing multiple z-levels and more - [Fork](https://github.com/con-dog/chunked-z-level-raycaster)
 
 ## Currently in Phase 5:
 Animated textures, floor/wall collisions based on surface manifest, walk through doors, and just for fun - sprites - fishing.
